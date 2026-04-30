@@ -1,10 +1,10 @@
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:14532d,100:22c55e&text=Riquelme%20Menezes&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Web%20Developer&descAlignY=60" alt="Banner do perfil" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:14532d,100:22c55e&text=Riquelme%20Menezes&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web%20Developer&descAlignY=60" alt="Banner do perfil" />
 </p>
 
 <p align="center">
-	<strong>Backend Developer focado em performance, segurança e escalabilidade.</strong><br>
-	Node.js • PostgreSQL • Docker • Nginx
+	<strong>Desenvolvedor Full Stack em formação, criando sistemas web completos do frontend ao deploy.</strong><br>
+	Node.js • PostgreSQL • Docker • Nginx • HTML • CSS • JavaScript
 </p>
 
 <p align="center">
@@ -23,36 +23,86 @@
 
 ## 🚀 Sobre mim
 
-Desenvolvo APIs e aplicações web completas, do backend ao deploy, com foco em estabilidade de produção e resultado real para o negócio.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor web em evolução, com foco em construir aplicações completas, modernas e funcionais.
 
-Trabalho com arquitetura limpa, integrações seguras e ambiente pronto para escalar.
+Atuo no desenvolvimento de sistemas desde a interface visual até o backend, banco de dados, autenticação, APIs, deploy e configuração de infraestrutura.
+
+Gosto de transformar ideias em projetos reais, com boa aparência, organização de código, documentação clara e estrutura preparada para crescimento.
 
 ---
 
 ## 💼 O que eu entrego
 
-- APIs REST robustas com autenticação e boas práticas de segurança
-- Sistemas web sob medida para operação e crescimento
-- Landing pages e sites profissionais com alta conversão
-- Deploy e infraestrutura com Docker + Nginx
+- Sites institucionais e landing pages profissionais
+- Interfaces modernas com HTML, CSS e JavaScript
+- Sistemas web sob medida para negócios
+- APIs REST com Node.js e Express
+- Integração com banco de dados PostgreSQL, MySQL e Supabase
+- Autenticação, cadastro, login e controle de usuários
+- Deploy de aplicações em ambiente online
+- Configuração com Docker, Nginx e servidores Linux
+- Documentação técnica com README profissional
 
 ---
 
 ## ⚙️ Stack principal
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,docker,nginx,js,html,css,git,github,linux,vscode,postman" alt="Tecnologias e ferramentas" />
+	<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,postgres,mysql,supabase,docker,nginx,aws,git,github,linux,vscode,postman" alt="Tecnologias e ferramentas" />
 </p>
 
 ---
 
-## 🔥 Projeto em destaque
+## 🔥 Projetos em destaque
 
-### Sistema de E-commerce (em desenvolvimento)
+### 🏍️ Planeta Moto Parts
 
-- Backend em Node.js + PostgreSQL
-- Estrutura preparada para catálogo, pedidos e pagamento
-- Base construída para performance, manutenção e escala
+Sistema de e-commerce desenvolvido para uma empresa de peças usadas de motocicletas, com foco em modernizar a venda online e reduzir a dependência de marketplaces.
+
+O projeto conta com:
+
+- Layout moderno inspirado em grandes e-commerces
+- Catálogo de produtos
+- Carrinho de compras
+- Cadastro e login de usuários
+- Painel administrativo
+- Backend em Node.js
+- Banco de dados PostgreSQL/Supabase
+- Deploy em ambiente online
+- Planejamento de integração com pagamento e frete
+
+🔗 Site: [www.planetamotopcs.com.br](https://www.planetamotopcs.com.br)  
+🔗 Repositório: [PLANETA-MOTO-PARTS](https://github.com/sleyck021/PLANETA-MOTO-PARTS)
+
+---
+
+### ☁️ Portfólio com Deploy em AWS
+
+Projeto desenvolvido com foco em infraestrutura, deploy e boas práticas de cloud, utilizando uma aplicação web integrada com backend, banco de dados e ambiente preparado para publicação.
+
+O projeto envolve:
+
+- Backend com Node.js e Express
+- Banco de dados MariaDB/MySQL
+- Docker e Docker Compose
+- Nginx como frontend/proxy
+- Configuração de ambiente com variáveis
+- Documentação técnica completa
+- Estrutura pensada para deploy em AWS
+
+---
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento Full Stack
+- APIs REST
+- Autenticação e segurança
+- Banco de dados relacional
+- Docker e Docker Compose
+- Nginx e proxy reverso
+- Deploy em nuvem
+- AWS
+- Boas práticas de arquitetura web
 
 ---
 
@@ -65,6 +115,17 @@ Trabalho com arquitetura limpa, integrações seguras e ambiente pronto para esc
 
 ---
 
+## 🎯 Objetivo
+
+Meu objetivo é evoluir como desenvolvedor Full Stack, criando soluções digitais completas, bem estruturadas e úteis para problemas reais.
+
+Busco desenvolver projetos com boa interface, backend funcional, banco de dados organizado, deploy profissional e documentação clara.
+
+---
+
+<p align="center">
+	<strong>Transformando ideias em sistemas reais.</strong>
+</p>
 ## 📫 Contato
 
 - Instagram: https://instagram.com/riquelme.dev_
