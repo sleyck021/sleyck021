@@ -128,7 +128,7 @@ Busco desenvolver projetos com boa interface, backend funcional, banco de dados 
 </p>
 ## 📫 Contato
 
-- Instagram: https://instagram.com/riquelme.dev_
+- Instagram: https://www.instagram.com/riquelme.dev_?igsh=MWtpZ29wcnZzb2pqZw==
 - WhatsApp: https://wa.me/5511975970161
 
 ---
