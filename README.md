@@ -1,10 +1,10 @@
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:14532d,100:22c55e&text=Riquelme%20Menezes&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web%20Developer&descAlignY=60" alt="Banner do perfil" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:14532d,100:22c55e&text=Riquelme%20Menezes&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Node.js%20%7C%20PostgreSQL&descAlignY=60" alt="Banner do perfil" />
 </p>
 
 <p align="center">
-	<strong>Desenvolvedor Full Stack em formação, criando sistemas web completos do frontend ao deploy.</strong><br>
-	Node.js • PostgreSQL • Docker • Nginx • HTML • CSS • JavaScript
+	<strong>Desenvolvedor Full Stack focado em sistemas reais para negócios locais.</strong><br>
+	Frontend moderno + backend robusto + banco de dados + deploy.
 </p>
 
 <p align="center">
@@ -23,25 +23,75 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor web em evolução, com foco em construir aplicações completas, modernas e funcionais.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e venho construindo aplicações completas, da interface ao deploy.
 
-Atuo no desenvolvimento de sistemas desde a interface visual até o backend, banco de dados, autenticação, APIs, deploy e configuração de infraestrutura.
+Meu foco é entregar projetos com:
 
-Gosto de transformar ideias em projetos reais, com boa aparência, organização de código, documentação clara e estrutura preparada para crescimento.
+- visual profissional e identidade forte
+- regras de negócio claras
+- autenticação e segurança
+- integração com banco de dados
+- documentação organizada
 
 ---
 
-## 💼 O que eu entrego
+## 🔥 Projetos principais
 
-- Sites institucionais e landing pages profissionais
-- Interfaces modernas com HTML, CSS e JavaScript
-- Sistemas web sob medida para negócios
-- APIs REST com Node.js e Express
-- Integração com banco de dados PostgreSQL, MySQL e Supabase
-- Autenticação, cadastro, login e controle de usuários
-- Deploy de aplicações em ambiente online
-- Configuração com Docker, Nginx e servidores Linux
-- Documentação técnica com README profissional
+### 💅 KAUANE NAILS (em produção)
+
+Plataforma completa de agendamento para estúdio de unhas, com área pública, painel administrativo e backend próprio.
+
+- agenda inteligente com horários em tempo real
+- tabela de preços dinâmica por categoria
+- painel admin com login/cadastro, controle de serviços e vitrine
+- API com Node.js + Express e persistência em Supabase (PostgreSQL)
+- deploy no Render
+
+🔗 Site: [kauane-nails.onrender.com](https://kauane-nails.onrender.com/)  
+🔗 Repositório: [KAUANE-NAILS](https://github.com/sleyck021/KAUANE-NAILS)
+
+---
+
+### 🚗 NOGUEIRA TRANSFER (fase final)
+
+MVP de agendamento de corridas com estimativa inteligente e painel de operação.
+
+- cálculo de valor por distância e tempo
+- formulário completo de solicitação de corrida
+- painel admin com atualização de status e atalho para WhatsApp
+- cancelamento pelo cliente com janela de tempo
+- avaliações públicas com nota e comentário
+- fallback local quando PostgreSQL não está disponível
+
+🔗 Repositório: [NOGUEIRA-TRANSFER](https://github.com/sleyck021/NOGUEIRA-TRANSFER)
+
+---
+
+### 🌿 AMADEU BORGES SERVIÇOS
+
+Landing page comercial para captação de clientes de serviços locais.
+
+- foco em conversão via WhatsApp
+- seção de serviços e prova visual com galeria real
+- layout responsivo com identidade visual forte
+- HTML, CSS e JavaScript puro (alta performance)
+
+🔗 Site: [amadeu-borges-servicos.vercel.app](https://amadeu-borges-servicos.vercel.app/)  
+🔗 Repositório: [amadeu-borges-servicos](https://github.com/sleyck021/amadeu-borges-servicos)
+
+---
+
+### 🏍️ PLANETA MOTO PARTS
+
+Projeto de e-commerce para empresa de peças usadas de motocicletas.
+
+- catálogo de produtos e fluxo de compra
+- autenticação de usuários
+- painel administrativo
+- base pronta para evoluir com pagamento e frete
+
+🔗 Site: [www.planetamotopcs.com.br](https://www.planetamotopcs.com.br/)  
+🔗 Repositório: [PLANETA-MOTO-PARTS](https://github.com/sleyck021/PLANETA-MOTO-PARTS)
 
 ---
 
@@ -53,56 +103,13 @@ Gosto de transformar ideias em projetos reais, com boa aparência, organização
 
 ---
 
-## 🔥 Projetos em destaque
+## 📚 Em evolução constante
 
-### 🏍️ Planeta Moto Parts
-
-Sistema de e-commerce desenvolvido para uma empresa de peças usadas de motocicletas, com foco em modernizar a venda online e reduzir a dependência de marketplaces.
-
-O projeto conta com:
-
-- Layout moderno inspirado em grandes e-commerces
-- Catálogo de produtos
-- Carrinho de compras
-- Cadastro e login de usuários
-- Painel administrativo
-- Backend em Node.js
-- Banco de dados PostgreSQL/Supabase
-- Deploy em ambiente online
-- Planejamento de integração com pagamento e frete
-
-🔗 Site: [www.planetamotopcs.com.br](https://www.planetamotopcs.com.br)  
-🔗 Repositório: [PLANETA-MOTO-PARTS](https://github.com/sleyck021/PLANETA-MOTO-PARTS)
-
----
-
-### ☁️ Portfólio com Deploy em AWS
-
-Projeto desenvolvido com foco em infraestrutura, deploy e boas práticas de cloud, utilizando uma aplicação web integrada com backend, banco de dados e ambiente preparado para publicação.
-
-O projeto envolve:
-
-- Backend com Node.js e Express
-- Banco de dados MariaDB/MySQL
-- Docker e Docker Compose
-- Nginx como frontend/proxy
-- Configuração de ambiente com variáveis
-- Documentação técnica completa
-- Estrutura pensada para deploy em AWS
-
----
-
-## 📚 Atualmente estudando
-
-- Desenvolvimento Full Stack
-- APIs REST
-- Autenticação e segurança
-- Banco de dados relacional
-- Docker e Docker Compose
-- Nginx e proxy reverso
-- Deploy em nuvem
-- AWS
-- Boas práticas de arquitetura web
+- arquitetura de APIs REST
+- autenticação e segurança em produção
+- PostgreSQL e modelagem de dados
+- deploy com Docker, Nginx e cloud
+- qualidade de código e documentação técnica
 
 ---
 
@@ -115,17 +122,6 @@ O projeto envolve:
 
 ---
 
-## 🎯 Objetivo
-
-Meu objetivo é evoluir como desenvolvedor Full Stack, criando soluções digitais completas, bem estruturadas e úteis para problemas reais.
-
-Busco desenvolver projetos com boa interface, backend funcional, banco de dados organizado, deploy profissional e documentação clara.
-
----
-
-<p align="center">
-	<strong>Transformando ideias em sistemas reais.</strong>
-</p>
 ## 📫 Contato
 
 - Instagram: https://www.instagram.com/riquelme.dev_?igsh=MWtpZ29wcnZzb2pqZw==
@@ -134,5 +130,5 @@ Busco desenvolver projetos com boa interface, backend funcional, banco de dados 
 ---
 
 <p align="center">
-	<strong>Código limpo • Soluções reais • Resultado de verdade</strong>
+	<strong>Projetos reais. Código limpo. Resultado de verdade.</strong>
 </p>
